@@ -149,7 +149,7 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case 2:
                         base = String.valueOf(ebase.getText());
-                        altura = String.valueOf(ebase.getText());
+                        altura = String.valueOf(ealtura.getText());
                         if( base.equals("")|altura.equals("") ){ eResultado.setText("Falta llenar los campos ");
                             error=1;
                         }else {base1=Double.parseDouble(base);altura1=Double.parseDouble(altura);
@@ -158,7 +158,7 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case 3:
                         base = String.valueOf(ebase.getText());
-                        altura = String.valueOf(ebase.getText());
+                        altura = String.valueOf(ealtura.getText());
                         if( base.equals("")|altura.equals("") ){ eResultado.setText("Falta llenar los campos ");
                             error=1;
                         }else {base1=Double.parseDouble(base);altura1=Double.parseDouble(altura);
