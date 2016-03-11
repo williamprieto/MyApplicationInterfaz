@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Áreas</string>
+    <string name="cuadro">Cuadro</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="lado">Lado</string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="radio">Radio</string>
+    <string name="resultado">Resultado</string>
+    <string name="calcular">Calcular</string>
+</resources>

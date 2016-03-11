@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Registro</string>
+
+    <string name="login">Login</string>
+    <string name="pasw">Pasw</string>
+    <string name="rpasw">Rpasw</string>
+    <string name="email">Email</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="fecha">date</string>
+    <string name="musica">Musica</string>
+    <string name="deporte">Deporte</string>
+    <string name="cine">Cine</string>
+    <string name="bailar">Bailar</string>
+    <string name="calcular">Calcular</string>
+    <string name="datosr">Datosr</string>
+
+
+    <string-array name="ciudades_array">
+        <item>Seleccionar </item>
+        <item>Barranquilla</item>
+        <item>Bogotá</item>
+        <item>Bucaramanga</item>
+        <item>Cali</item>
+        <item>Cúcuta</item>
+        <item>Cartagena</item>
+        <item>Ibagué</item>
+        <item>Manizales</item>
+        <item>Medellín</item>
+        <item>Pasto</item>
+        <item>Pereira</item>
+        <item>Santa Marta</item>
+        <item>Tulua</item>
+        <item>Villavicencio</item>
+
+    </string-array>
+</resources>
