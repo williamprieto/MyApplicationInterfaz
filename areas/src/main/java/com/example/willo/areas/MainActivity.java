@@ -157,7 +157,6 @@ public class MainActivity extends AppCompatActivity {
 
                         break;
                     case 3:
-
                         base = String.valueOf(ebase.getText());
                         altura = String.valueOf(ealtura.getText());
                         if( base.equals("")|altura.equals("") ){ eResultado.setText("Falta llenar los campos ");
